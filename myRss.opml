@@ -2,18 +2,32 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>周四 7月 13 10:33:35 2023</dateModified>
+        <dateModified>周四 7月 13 23:24:02 2023</dateModified>
     </head>
     <body>
-        <outline text="twitter">
-            <outline text="Twitter @Diygod" type="rss" htmlUrl="https://twitter.com/DIYgod" xmlUrl="https://rsshub.app/twitter/user/DIYgod"/>
-        </outline>
-        <outline text="weibo">
-            <outline text="月风_投资笔记的微博" type="rss" htmlUrl="https://weibo.com/1670659923/" xmlUrl="https://rsshub.app/weibo/user/1670659923/readable=1&amp;authorNameBold=1&amp;showAuthorInTitle=1&amp;showAuthorInDesc=1&amp;showAuthorAvatarInDesc=1&amp;showEmojiForRetweet=1&amp;showRetweetTextInTitle=0&amp;addLinkForPics=1&amp;showTimestampInDescription=1&amp;showTimestampInDescription=1&amp;heightOfPics=150"/>
-            <outline text="tombkeeper的微博" type="rss" htmlUrl="https://weibo.com/1401527553/" xmlUrl="https://rsshub.app/weibo/user/1401527553/readable=1&amp;authorNameBold=1&amp;showAuthorInTitle=1&amp;showAuthorInDesc=1&amp;showAuthorAvatarInDesc=1&amp;showEmojiForRetweet=1&amp;showRetweetTextInTitle=0&amp;addLinkForPics=1&amp;showTimestampInDescription=1&amp;showTimestampInDescription=1&amp;heightOfPics=150"/>
+        <outline text="Blog">
+            <outline text="JustZht的博客" type="rss" htmlUrl="https://www.justzht.com/" xmlUrl="https://www.justzht.com/rss/"/>
+            <outline text="云风的BLOG" type="rss" htmlUrl="https://blog.codingnow.com/" xmlUrl="https://blog.codingnow.com/atom.xml"/>
+            <outline text="Randy's Blog" type="rss" htmlUrl="https://lutaonan.com/" xmlUrl="https://lutaonan.com/rss.xml"/>
+            <outline text="Justin博客枫言枫语" type="rss" htmlUrl="https://justinyan.me" xmlUrl="https://justinyan.me/feed"/>
         </outline>
         <outline text="News">
             <outline text="cnBeta全文版" type="rss" htmlUrl="https://m.cnbeta.com.tw/" xmlUrl="http://feeds2.feedburner.com/cnbeta-full"/>
+            <outline text="苹果fans博客" type="rss" htmlUrl="http://www.mac52ipod.cn/index.php" xmlUrl="http://www.mac52ipod.cn/feed.php"/>
+            <outline text="奇客Solidot" type="rss" htmlUrl="https://www.solidot.org" xmlUrl="https://www.solidot.org/index.rss"/>
+            <outline text="煎蛋热榜" type="rss" htmlUrl="http://i.jandan.net/top" xmlUrl="https://rsshub.app/jandan/top"/>
+            <outline text="小众软件" type="rss" htmlUrl="https://www.appinn.com" xmlUrl="https://www.appinn.com/feed/"/>
+            <outline text="36氪" type="rss" htmlUrl="http://36kr.com" xmlUrl="https://www.36kr.com/feed"/>
+            <outline text="三联生活周刊" type="rss" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=三联生活周刊" xmlUrl="https://plink.anyfeeder.com/weixin/lifeweek"/>
+            <outline text="IT之家" type="rss" htmlUrl="https://www.ithome.com/" xmlUrl="https://www.ithome.com/rss/"/>
+            <outline text="虎嗅网首页资讯" type="rss" htmlUrl="https://www.huxiu.com/article/" xmlUrl="https://rsshub.app/huxiu/article"/>
+        </outline>
+        <outline text="Twitter">
+            <outline text="Twitter @Diygod" type="rss" htmlUrl="https://twitter.com/DIYgod" xmlUrl="https://rsshub.app/twitter/user/DIYgod"/>
+        </outline>
+        <outline text="Weibo">
+            <outline text="月风_投资笔记的微博" type="rss" htmlUrl="https://weibo.com/1670659923/" xmlUrl="https://rsshub.app/weibo/user/1670659923/readable=1&amp;authorNameBold=1&amp;showAuthorInTitle=1&amp;showAuthorInDesc=1&amp;showAuthorAvatarInDesc=1&amp;showEmojiForRetweet=1&amp;showRetweetTextInTitle=0&amp;addLinkForPics=1&amp;showTimestampInDescription=1&amp;showTimestampInDescription=1&amp;heightOfPics=150"/>
+            <outline text="tombkeeper的微博" type="rss" htmlUrl="https://weibo.com/1401527553/" xmlUrl="https://rsshub.app/weibo/user/1401527553/readable=1&amp;authorNameBold=1&amp;showAuthorInTitle=1&amp;showAuthorInDesc=1&amp;showAuthorAvatarInDesc=1&amp;showEmojiForRetweet=1&amp;showRetweetTextInTitle=0&amp;addLinkForPics=1&amp;showTimestampInDescription=1&amp;showTimestampInDescription=1&amp;heightOfPics=150"/>
         </outline>
     </body>
 </opml>

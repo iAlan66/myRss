@@ -31,3 +31,7 @@
 1. Windows: [quiteRss](https://quiterss.org/)
 2. ios: reeder
 3. Android: [read you](https://github.com/Ashinch/ReadYou)
+
+### Rss订阅源项目
+
+[中文优质rss源](https://github.com/weekend-project-space/top-rss-list)

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>周四 7月 13 10:33:35 2023</dateModified>
+    </head>
+    <body>
+        <outline text="twitter">
+            <outline text="Twitter @Diygod" type="rss" htmlUrl="https://twitter.com/DIYgod" xmlUrl="https://rsshub.app/twitter/user/DIYgod"/>
+        </outline>
+        <outline text="weibo">
+            <outline text="月风_投资笔记的微博" type="rss" htmlUrl="https://weibo.com/1670659923/" xmlUrl="https://rsshub.app/weibo/user/1670659923/readable=1&amp;authorNameBold=1&amp;showAuthorInTitle=1&amp;showAuthorInDesc=1&amp;showAuthorAvatarInDesc=1&amp;showEmojiForRetweet=1&amp;showRetweetTextInTitle=0&amp;addLinkForPics=1&amp;showTimestampInDescription=1&amp;showTimestampInDescription=1&amp;heightOfPics=150"/>
+            <outline text="tombkeeper的微博" type="rss" htmlUrl="https://weibo.com/1401527553/" xmlUrl="https://rsshub.app/weibo/user/1401527553/readable=1&amp;authorNameBold=1&amp;showAuthorInTitle=1&amp;showAuthorInDesc=1&amp;showAuthorAvatarInDesc=1&amp;showEmojiForRetweet=1&amp;showRetweetTextInTitle=0&amp;addLinkForPics=1&amp;showTimestampInDescription=1&amp;showTimestampInDescription=1&amp;heightOfPics=150"/>
+        </outline>
+        <outline text="News">
+            <outline text="cnBeta全文版" type="rss" htmlUrl="https://m.cnbeta.com.tw/" xmlUrl="http://feeds2.feedburner.com/cnbeta-full"/>
+        </outline>
+    </body>
+</opml>

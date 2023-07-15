@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>周六 7月 15 00:33:28 2023</dateModified>
+        <dateModified>周六 7月 15 22:22:48 2023</dateModified>
     </head>
     <body>
         <outline text="Blog">
@@ -13,14 +13,20 @@
         </outline>
         <outline text="News">
             <outline text="cnBeta全文版" type="rss" htmlUrl="https://m.cnbeta.com.tw/" xmlUrl="http://feeds2.feedburner.com/cnbeta-full"/>
-            <outline text="苹果fans博客" type="rss" htmlUrl="http://www.mac52ipod.cn/index.php" xmlUrl="http://www.mac52ipod.cn/feed.php"/>
             <outline text="奇客Solidot" type="rss" htmlUrl="https://www.solidot.org" xmlUrl="https://www.solidot.org/index.rss"/>
-            <outline text="煎蛋热榜" type="rss" htmlUrl="http://i.jandan.net/top" xmlUrl="https://rsshub.app/jandan/top"/>
-            <outline text="小众软件" type="rss" htmlUrl="https://www.appinn.com" xmlUrl="https://www.appinn.com/feed/"/>
+            <outline text="煎蛋" type="rss" htmlUrl="http://i.jandan.net" xmlUrl="https://rsshub.app/jandan"/>
+            <outline text="晚点" type="rss" htmlUrl="https://www.latepost.com/news/get-news-data" xmlUrl="https://rsshub.app/latepost"/>
             <outline text="36氪" type="rss" htmlUrl="http://36kr.com" xmlUrl="https://www.36kr.com/feed"/>
+            <outline text="TechWeb" type="rss" htmlUrl="http://www.techweb.com.cn/rss/allnews.xml" xmlUrl="http://www.techweb.com.cn/rss/allnews.xml"/>
             <outline text="三联生活周刊" type="rss" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=三联生活周刊" xmlUrl="https://plink.anyfeeder.com/weixin/lifeweek"/>
             <outline text="IT之家" type="rss" htmlUrl="https://www.ithome.com/" xmlUrl="https://www.ithome.com/rss/"/>
-            <outline text="虎嗅网首页资讯" type="rss" htmlUrl="https://www.huxiu.com/article/" xmlUrl="https://rsshub.app/huxiu/article"/>
+            <outline text="虎嗅网" type="rss" htmlUrl="https://www.huxiu.com/article/" xmlUrl="https://rsshub.app/huxiu/article"/>
+            <outline text="快科技" type="rss" htmlUrl="https://m.mydrivers.com/m/newslist.ashx" xmlUrl="https://rsshub.app/mydrivers"/>
+            <outline text="凤凰网" type="rss" htmlUrl="https://news.ifeng.com" xmlUrl="https://rsshub.app/ifeng/news"/>
+            <outline text="蓝点网" type="rss" htmlUrl="https://www.landiannews.com" xmlUrl="https://www.landiannews.com/feed"/>
+            <outline text="有据" type="rss" htmlUrl="https://chinafactcheck.com" xmlUrl="https://rsshub.app/chinafactcheck"/>
+            <outline text="小众软件" type="rss" htmlUrl="https://www.appinn.com" xmlUrl="https://www.appinn.com/feed/"/>
+            <outline text="苹果fans博客" type="rss" htmlUrl="http://www.mac52ipod.cn/index.php" xmlUrl="http://www.mac52ipod.cn/feed.php"/>
         </outline>
         <outline text="Twitter">
             <outline text="Twitter @Diygod" type="rss" htmlUrl="https://twitter.com/DIYgod" xmlUrl="https://rsshub.app/twitter/user/DIYgod"/>

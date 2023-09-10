@@ -2,11 +2,12 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>周日 9月 10 18:31:15 2023</dateModified>
+        <dateModified>周日 9月 10 19:01:48 2023</dateModified>
     </head>
     <body>
         <outline text="技术">
             <outline text="Designer小郑 | Java" type="rss" htmlUrl="https://blog.csdn.net/qq_41464123" xmlUrl="https://blog.csdn.net/qq_41464123/rss/list?spm=1001.2014.3001.5494"/>
+            <outline text="TrendingGitHub" type="rss" htmlUrl="https://github.com/trending/?since=daily&amp;spoken_language_code=en" xmlUrl="https://rsshub.app/github/trending/daily/any/en"/>
         </outline>
         <outline text="News">
             <outline text="cnBeta全文版" type="rss" htmlUrl="https://m.cnbeta.com.tw/" xmlUrl="http://feeds2.feedburner.com/cnbeta-full"/>

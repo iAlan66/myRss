@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>周日 9月 10 19:01:48 2023</dateModified>
+        <dateModified>周二 9月 12 21:19:04 2023</dateModified>
     </head>
     <body>
         <outline text="技术">
@@ -28,6 +28,7 @@
         </outline>
         <outline text="Blog">
             <outline text="JustZht的博客" type="rss" htmlUrl="https://www.justzht.com/" xmlUrl="https://www.justzht.com/rss/"/>
+            <outline text="piglei" type="rss" htmlUrl="http://www.zlovezl.cn/" xmlUrl="https://www.piglei.com/feeds/latest/"/>
             <outline text="云风的BLOG" type="rss" htmlUrl="https://blog.codingnow.com/" xmlUrl="https://blog.codingnow.com/atom.xml"/>
             <outline text="Frost's Blog" type="rss" htmlUrl="https://frostming.com" xmlUrl="https://frostming.com/feed.xml"/>
             <outline text="栋哥的赛博空间" type="rss" htmlUrl="https://liuyandong.com" xmlUrl="https://liuyandong.com/feed"/>
@@ -35,6 +36,7 @@
             <outline text="GeekPlux" type="rss" htmlUrl="https://geekplux.com" xmlUrl="https://geekplux.com/feed.xml"/>
             <outline text="Randy's Blog" type="rss" htmlUrl="https://lutaonan.com/" xmlUrl="https://lutaonan.com/rss.xml"/>
             <outline text="Justin博客枫言枫语" type="rss" htmlUrl="https://justinyan.me" xmlUrl="https://justinyan.me/feed"/>
+            <outline text="Frank's Weblog" type="rss" htmlUrl="https://nyan.im/" xmlUrl="https://nyan.im/feed"/>
             <outline text="可可托海没有海" type="rss" htmlUrl="https://darmau.design/" xmlUrl="https://darmau.design/rss.xml"/>
             <outline text="旅行者的随想" type="rss" htmlUrl="https://blog.besscroft.com/" xmlUrl="https://blog.besscroft.com/rss.xml"/>
             <outline text="天仙子" type="rss" htmlUrl="https://tianxianzi.me/" xmlUrl="https://tianxianzi.me/atom.xml"/>

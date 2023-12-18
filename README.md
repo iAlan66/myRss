@@ -1,5 +1,11 @@
 # myRss
 
+### 后续使用 inoreader 管理订阅源
+
+- Github手动管理订阅源不方便
+- 后续使用 [inoreader](https://www.inoreader.com/) 管理订阅源，大部分rss阅读器支持订阅 inoreader 帐号订阅，quiteRss 好像不支持，可以手动导出订阅文件再导入
+- 如果想动手可以用 freshrss 自建订阅，大部分 rss 阅读器支持 freshrss订阅
+
 ### Rss订阅源获取
 
 1. 使用[rsshub](https://docs.rsshub.app/)
@@ -29,7 +35,7 @@
 ### Rss阅读器
 
 1. Windows: [quiteRss](https://quiterss.org/)
-2. ios: reeder
+2. ios: reeder, NetNewsWire
 3. Android: [read you](https://github.com/Ashinch/ReadYou)
 
 ### Rss订阅源项目
